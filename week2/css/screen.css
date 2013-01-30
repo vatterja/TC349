@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+h1 {
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+	text-decoration:underline;
+	}
+	
+p {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+
+h2 {
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+	margin-bottom: 5px;
+}
+
+
