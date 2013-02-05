@@ -1,0 +1,26 @@
+#body {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+h1 {
+	font-family:Verdana, Geneva, sans-serif;
+}
+h2 {
+	font-family:Verdana, Geneva, sans-serif;
+}
+h3 {
+	font-family:Verdana, Geneva, sans-serif;
+}
+p {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+ul {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+.floatimg {
+	float:right;
+	margin: 5px;
+}
