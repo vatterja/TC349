@@ -1,0 +1,9 @@
+Overall I have to say that I like heroku's website.  The darker colors that the website uses works for the style of the site.  The purple with the dark gray really help split the site into its different areas and allows your eye to go where it should.  The subpages also use colors to separate different sections of the website.  The pricing page is a good example of this and I believe helps separate the different packages and makes it easier to read.  On That point, the darker colors make the text more visible than having a light background with dark text.
+
+As for the layout of the site, I also like the way that was done.  The slider on the front page is really nice, highlighting there main focus without distracting the user from the rest of the site.  The navigation menu is prominent on the page and doesn't move on the subpages.
+
+I don't like the way the website colors and menu change depending on the subpage.  I believe they should all look the same, not just for symmetry, but it confuses the user.
+
+-----------------------
+
+The layout that I choose was the single.  The main reason behind this is the personal site not very complicated and just needs to show text and couple of images.  There was no reason to add sidebars or anything like that.
