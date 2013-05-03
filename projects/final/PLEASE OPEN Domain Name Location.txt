@@ -1,0 +1,6 @@
+vltech.org
+
+Mobile Site
+m.vltech.org
+
+Will redirect to the mobile site if you go to vltech.org on your phone.
